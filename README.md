@@ -1,0 +1,1 @@
+# component-driven-by-inputs
